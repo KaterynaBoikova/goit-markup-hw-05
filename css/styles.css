@@ -323,7 +323,7 @@ team-social-list-item:not(:last-child) {
 }
 .team-social-list-link {
   transition-property: color background;
-  transition-duration: 5050ms;
+  transition-duration: 250ms;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
 /***** OUR clients *****/
